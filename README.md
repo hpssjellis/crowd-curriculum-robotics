@@ -1,14 +1,11 @@
 # crowd-curriculum-robotics
 Storage location for student changeable by PR (Pull Request) Robotics Curriculum
 
-Viewable webpage at 
-
-https://hpssjellis.github.io/crowd-curriculum-robotics/
 
 
+Support Repository for the Crow-Curriculum database at http://rocksetta.com/crowd-curriculum/
 
 
-The web page is a duplicate of this page (This one is in Github MD mard down format)
 
 #Robotics Crowd Curriculum
 
