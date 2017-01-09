@@ -3,7 +3,7 @@ Storage location for student changeable by PR (Pull Request) Robotics Curriculum
 
 
 
-Support Repository for the Crow-Curriculum database at http://rocksetta.com/crowd-curriculum/
+Support Repository for the Crowd-Curriculum database at http://rocksetta.com/crowd-curriculum/
 
 
 
