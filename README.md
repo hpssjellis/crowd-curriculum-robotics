@@ -20,8 +20,8 @@ All dynamic links and images are in a flat format in this repository folder
   https://github.com/hpssjellis/crowd-curriculum-robotics/tree/master/robotics
 
 
-All image and web page links can be made using this base URL 
+All images and web page links should be relative to this folder. To view use this url
 
 ```
-https://hpssjellis.github.io/crowd-curriculum-robotics/robotics/
+https://[yourGithubUsername].github.io/crowd-curriculum-robotics/robotics/[yourFileName.html]
 ```
