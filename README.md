@@ -3,7 +3,7 @@ Storage location for student changeable by PR (Pull Request) Robotics Curriculum
 
 
 
-webiste at https://hpssjellis.github.io/crowd-curriculum-robotics/robotics
+webiste at https://hpssjellis.github.io/crowd-curriculum-robotics/
 
 
 
